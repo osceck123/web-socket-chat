@@ -1,0 +1,22 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin: 20px auto;
+}
+
+video {
+  width: 300px;
+  height: auto;
+}
+
+.remote-videos video {
+  width: 150px;
+  height: auto;
+  margin: 5px;
+}
